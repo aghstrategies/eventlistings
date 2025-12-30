@@ -1,12 +1,16 @@
 # CiviCRM Event Listings
 
-This extension sets up two searchkit/afform lists to display Events:
+This extension sets up two searchkit/afform lists to display Events, details listed below. Once installed one can copy these example searchkt/afforms and tweak them as they see fit to meet their needs.
 
 ### Upcoming Events
-a public list of upcoming events. It can be viewed here: https://yoursite.com/civicrm/upcomingevents This shortcode can be used to embed it on a wordpress page: `[civicrm component="afform" name="afsearchUpcomingEvents"]`.
+A public list of upcoming events, it can be viewed here: https://yoursite.com/civicrm/upcomingevents
+
+This shortcode can be used to embed it on a wordpress page: `[civicrm component="afform" name="afsearchUpcomingEvents"]`.
 
 ### Past Events
-Public list of past events, it can be viewed here: https://yoursite.com/civicrm/pastevents this shortcode can be used to embed it on a wordpress page: `[civicrm component="afform" name="afsearchPastEvents"]`.
+A public list of past events, it can be viewed here: https://yoursite.com/civicrm/pastevents
+
+This shortcode can be used to embed it on a wordpress page: `[civicrm component="afform" name="afsearchPastEvents"]`.
 
 ## Requirements
 
